@@ -12,5 +12,5 @@ Analyzed World Values Survey (2018) data to model factors affecting feelings of 
 - Model AUC: [Add value from your script, e.g., 0.85].
 
 ## Reports
-- [Part 1 PDF]((https://drive.google.com/file/d/1dfdObOb7QlsocVZZGO4TJEtCEqC2SA_2/view?usp=drive_link))
-- [Part 2 PDF]((https://drive.google.com/file/d/1RjEyuTeKnwkM_Pb6jxHNYfRD77YtiSxt/view?usp=drive_link))
+- [Part 1 - (https://drive.google.com/file/d/1RjEyuTeKnwkM_Pb6jxHNYfRD77YtiSxt/view?usp=drive_link))]((https://drive.google.com/file/d/1dfdObOb7QlsocVZZGO4TJEtCEqC2SA_2/view?usp=drive_link))
+- [Part 2 - (https://drive.google.com/file/d/1RjEyuTeKnwkM_Pb6jxHNYfRD77YtiSxt/view?usp=drive_link))]((https://drive.google.com/file/d/1RjEyuTeKnwkM_Pb6jxHNYfRD77YtiSxt/view?usp=drive_link))
