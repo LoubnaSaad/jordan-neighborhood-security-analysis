@@ -9,8 +9,6 @@ Analyzed World Values Survey (2018) data to model factors affecting feelings of 
 
 ## Key Findings
 - Significant predictors: Robberies (OR=0.28 for quite frequent) and drug sales (OR=0.09 for very frequent).
-- Model AUC: [Add value from your script, e.g., 0.85].
-
 ## Reports
 - [Part 1 - PDF (https://drive.google.com/file/d/1RjEyuTeKnwkM_Pb6jxHNYfRD77YtiSxt/view?usp=drive_link))]((https://drive.google.com/file/d/1dfdObOb7QlsocVZZGO4TJEtCEqC2SA_2/view?usp=drive_link))
 - [Part 2 -PDF (https://drive.google.com/file/d/1RjEyuTeKnwkM_Pb6jxHNYfRD77YtiSxt/view?usp=drive_link))]((https://drive.google.com/file/d/1RjEyuTeKnwkM_Pb6jxHNYfRD77YtiSxt/view?usp=drive_link))
