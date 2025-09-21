@@ -11,7 +11,9 @@ Uncovered cultural and economic drivers of safety concerns, providing policy ins
 - `logistic_regression_modeling.R`: Binary logistic regression with stepwise selection, ROC, and confusion matrix.
 
 ## Key Findings
-- Significant predictors: Robberies (OR=0.28 for quite frequent) and drug sales (OR=0.09 for very frequent).
+- Survey data analysis on security perceptions (WVS Wave 7 topics: corruption, risk, national security).
+- Statistical classification via chi-square and Mantel-Haenszel tests.
+- Visual interpretation with mosaic plots and contingency tables for comprehensive reporting.
 ## Reports
 - [Part 1 - PDF (https://drive.google.com/file/d/1RjEyuTeKnwkM_Pb6jxHNYfRD77YtiSxt/view?usp=drive_link))]((https://drive.google.com/file/d/1dfdObOb7QlsocVZZGO4TJEtCEqC2SA_2/view?usp=drive_link))
 - [Part 2 -PDF (https://drive.google.com/file/d/1RjEyuTeKnwkM_Pb6jxHNYfRD77YtiSxt/view?usp=drive_link))]((https://drive.google.com/file/d/1RjEyuTeKnwkM_Pb6jxHNYfRD77YtiSxt/view?usp=drive_link))
