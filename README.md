@@ -1,8 +1,11 @@
 # Jordan Neighborhood Security Analysis
 
 ## Overview
-Analyzed World Values Survey (2018) data to model factors affecting feelings of security in Jordanian neighborhoods.
+Analyzed Jordan’s World Values Survey (2018, ~1,200 respondents) in R to examine factors influencing neighborhood security perceptions.
 
+Applied logistic regression and chi-square tests, with contingency tables and mosaic plots for statistical reporting.
+
+Uncovered cultural and economic drivers of safety concerns, providing policy insights to strengthen community integration..
 ## Files
 - `exploratory_categorical_analysis.R`: Chi-squared tests, contingency tables, Gamma stats.
 - `logistic_regression_modeling.R`: Binary logistic regression with stepwise selection, ROC, and confusion matrix.
